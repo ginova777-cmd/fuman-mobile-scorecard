@@ -1,4 +1,4 @@
-from mobile_app import main
+from terminal_app import main
 
 
 main()
